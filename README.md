@@ -5,3 +5,5 @@
 - what is datamark
 - what is partition 
 - what is spark
+- what is instance
+- what is container
