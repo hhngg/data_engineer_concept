@@ -9,3 +9,4 @@ v# data_engineer_concept
 - what is container
 - what is cluster
 - what is node
+- what is data skew
